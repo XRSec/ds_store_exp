@@ -1,3 +1,4 @@
+### Is derived from the https://github.com/lijiejie/ds_store_exp
 # ds\_store\_exp #
 
 A **`.DS_Store`** file disclosure exploit. 
