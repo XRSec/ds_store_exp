@@ -7,15 +7,15 @@ It parses .DS_Store file and downloads files recursively.
 
 这是一个 .DS\_Store 文件泄漏利用脚本，它解析.DS_Store文件并递归地下载文件到本地。
 
-    Usage: python ds_store_exp.py http://www.example.com/.DS_Store
+    Usage: python3 ds_store_exp.py http://www.example.com/.DS_Store
 
 ## Install ##
 
-	pip install -r requirements.txt
+	pip3 install -r requirements.txt
 
 ## Example ##
 
-	ds_store_exp.py http://hd.zj.qq.com/themes/galaxyw/.DS_Store
+	python3 ds_store_exp.py http://hd.zj.qq.com/themes/galaxyw/.DS_Store
 
 	hd.zj.qq.com/
 	└── themes
